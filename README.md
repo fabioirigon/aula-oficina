@@ -3,5 +3,5 @@
 * [Github](https://github.com/MuriloGarrido)
 * [Facebook](https://www.facebook.com/?locale=pt_BR)
 ## Habilidades
-* Rei do JavaFX
+* Rei do PITON
 * Discípulo do Dr. Little August Stone
